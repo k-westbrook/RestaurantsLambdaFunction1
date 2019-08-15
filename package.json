@@ -1,0 +1,15 @@
+{
+  "name": "Get_Restaurants",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-xray-sdk": "^2.3.4",
+    "pg": "^7.12.1"
+  }
+}
