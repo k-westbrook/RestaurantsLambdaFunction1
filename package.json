@@ -1,5 +1,5 @@
 {
-  "name": "i-agreatable-Get_Restaurants-lambda",
+  "name": "i-agreatable-get-restaurants-lambda",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
