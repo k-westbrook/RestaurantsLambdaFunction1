@@ -27,7 +27,7 @@ exports.handler = async function (event, context, callback) {
       body: {
         restaurantList: restaurantResultRows.rows,
         foodTypeFilterList: foodTypeFilterResultsRows.rows,
-        locationFilterList: locationTypeFilterResultsRows
+        locationFilterList: locationTypeFilterResultsRows.rows
       },
     };
     return response;
